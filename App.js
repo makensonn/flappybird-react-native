@@ -17,6 +17,7 @@ export default function App() {
 
   async function playSound() {
 
+    //Added sound to listen to when playing the game
     console.log('Loading Sound');
     const { sound } = await Audio.Sound.createAsync(
        require('./assets/sound/gs.mp3')
