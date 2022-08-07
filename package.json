@@ -8,17 +8,17 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "~41.0.1",
-    "expo-av": "~9.1.2",
-    "expo-status-bar": "~1.0.4",
+    "expo": "^46.0.2",
+    "expo-av": "~12.0.3",
+    "expo-status-bar": "~1.4.0",
     "matter-js": "^0.17.1",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-native": "0.69.3",
     "react-native-game-engine": "^1.2.0",
     "react-native-sound": "^0.11.0",
     "react-native-sound-player": "^0.11.0",
-    "react-native-web": "~0.13.12",
+    "react-native-web": "^0.18.7",
     "use-sound": "^4.0.1"
   },
   "devDependencies": {
