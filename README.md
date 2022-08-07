@@ -1,6 +1,9 @@
 # flappy bird remake
 Flappy bird remake, Made with react
 
+https://user-images.githubusercontent.com/22712773/183271984-f9c52b64-0b32-439a-b261-089ed0ad548d.mov
+
+
 # Instructions:
 
 ### 💻 How to install
