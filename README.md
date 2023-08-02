@@ -1,5 +1,5 @@
 # flappy bird remake
-Flappy Bird in JavaScript
+This application is a recreation of the side scrolling game Flappy Bird.
 
 https://user-images.githubusercontent.com/22712773/183271984-f9c52b64-0b32-439a-b261-089ed0ad548d.mov
 
