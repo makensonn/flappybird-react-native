@@ -1,8 +1,7 @@
 # flappy bird remake
 This application is a recreation of the side scrolling mobile app game Flappy Bird.
 
-https://user-images.githubusercontent.com/22712773/183271984-f9c52b64-0b32-439a-b261-089ed0ad548d.mov
-
+https://github.com/makensonn/float/assets/22712773/edcf93bf-a106-4ae7-9cda-a0c18d5cb28f
 
 # Instructions:
 
