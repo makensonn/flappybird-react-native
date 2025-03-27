@@ -53,26 +53,26 @@ Or run the app on Android:
 npx react-native run-android
 ```
 
-Gameplay Instructions
+## Gameplay Instructions
 - Tap anywhere on the screen to make the bird flap and stay in the air.
 - Avoid colliding with the pipes or the ground to continue playing.
 - The score increases each time the bird successfully passes between the pipes.
 - The game ends when the bird collides with a pipe or hits the ground.
 
-Code Structure
+## Code Structure
 - App.js: Main entry point that initializes the game logic.
 - components/FlappyBird.js: Contains the game components, including the bird, pipes, and score display.
 - assets/: Folder containing sound effects and images used in the game.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 React Native for providing the framework to build mobile applications.
 
-Inspired by the original Flappy Bird game.
+## Inspired by the original Flappy Bird game.
 
-Special thanks to the open-source community for their contributions to game physics and animations.
+## Special thanks to the open-source community for their contributions to game physics and animations.
 
 
 
