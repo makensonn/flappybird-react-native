@@ -28,8 +28,12 @@ First, clone the repository:
 ```bash
 git clone https://github.com/makensonn/flappybird-react-native.git
 ```
+```bash
 cd flappybird-react-native
+```
+```bash
 npm install
+```
 
 npx react-native run-ios
 
