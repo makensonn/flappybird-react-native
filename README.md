@@ -68,9 +68,7 @@ npx react-native run-android
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-React Native for providing the framework to build mobile applications.
-
-## Inspired by the original Flappy Bird game.
+React Native for providing the framework to build mobile applications. Inspired by the original Flappy Bird game.
 
 ## Special thanks to the open-source community for their contributions to game physics and animations.
 
