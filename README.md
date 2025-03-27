@@ -31,3 +31,50 @@ First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/makensonn/flappybird-react-native.git
 ```
+Navigate to the project folder:
+
+```bash
+cd flappybird-react-native
+```
+Install dependencies:
+
+```bash
+npm install
+```
+### Running the App
+Run the app on iOS:
+
+```bash
+npx react-native run-ios
+```
+Or run the app on Android:
+
+```bash
+npx react-native run-android
+```
+
+Gameplay Instructions
+- Tap anywhere on the screen to make the bird flap and stay in the air.
+- Avoid colliding with the pipes or the ground to continue playing.
+- The score increases each time the bird successfully passes between the pipes.
+- The game ends when the bird collides with a pipe or hits the ground.
+
+Code Structure
+App.js: Main entry point that initializes the game logic.
+components/FlappyBird.js: Contains the game components, including the bird, pipes, and score display.
+assets/: Folder containing sound effects and images used in the game.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgments
+React Native for providing the framework to build mobile applications.
+
+Inspired by the original Flappy Bird game.
+
+Special thanks to the open-source community for their contributions to game physics and animations.
+
+
+
+
+
