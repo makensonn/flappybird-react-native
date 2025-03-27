@@ -27,7 +27,7 @@ First, clone the repository:
 
 ```bash
 git clone https://github.com/makensonn/flappybird-react-native.git
-
+```
 cd flappybird-react-native
 npm install
 
