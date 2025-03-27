@@ -60,9 +60,9 @@ Gameplay Instructions
 - The game ends when the bird collides with a pipe or hits the ground.
 
 Code Structure
-App.js: Main entry point that initializes the game logic.
-components/FlappyBird.js: Contains the game components, including the bird, pipes, and score display.
-assets/: Folder containing sound effects and images used in the game.
+- App.js: Main entry point that initializes the game logic.
+- components/FlappyBird.js: Contains the game components, including the bird, pipes, and score display.
+- assets/: Folder containing sound effects and images used in the game.
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
